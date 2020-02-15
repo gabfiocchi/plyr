@@ -3,7 +3,7 @@
 // Definitions by: ondratra <https://github.com/ondratra>
 // TypeScript Version: 3.0
 
-export = Plyr;
+export default Plyr;
 export as namespace Plyr;
 
 declare class Plyr {
